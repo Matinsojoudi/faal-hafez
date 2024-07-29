@@ -1,4 +1,3 @@
-```markdown
 # Faal-e-Hafez to SQLite Database
 
 This project is a Python script designed to store all 495 poems (Faal) of Hafez along with their interpretations into an SQLite database. The script uses the `sqlite3` module to manage the database operations. Below is a brief explanation of the script and its functionality.
@@ -45,15 +44,14 @@ conn.commit()
 
 # Close the connection
 conn.close()
-```
 
 ## Usage
 
 1. Clone this repository or download the script.
-2. Ensure you have Python installed on your system.
+2. Ensure you have Python & sqlite3 installed on your system.
 3. Run the script using Python:
    ```bash
-   python script_name.py
+   python create_db.py
    ```
 4. The script will create an SQLite database named `faals.db` in the same directory as the script and populate it with the poems and their interpretations.
 
