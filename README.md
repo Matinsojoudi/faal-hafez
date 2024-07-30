@@ -70,5 +70,3 @@ Feel free to contribute to this project by submitting a pull request or opening 
 
 This project is licensed under the MIT License.
 ```
-
-This README file provides an overview of the script, instructions for running it, and details about the database structure. You can modify it as needed to fit your project's specifics.
