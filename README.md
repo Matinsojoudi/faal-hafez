@@ -69,4 +69,3 @@ Feel free to contribute to this project by submitting a pull request or opening 
 ## License
 
 This project is licensed under the MIT License.
-```
